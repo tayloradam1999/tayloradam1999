@@ -24,10 +24,10 @@ const Adam = {
 		"jQuery", "GraphQL", "GraphiQL", "Apollo",
 		"queueing", "mocha", "chai", "sinon", "jest"
 	],
-		python: [
-			"flask", "flask-cors", "flask-restful", "unittest",
-			"pytest", "Django", "Django-rest-framework"
-		]
+	  		py: [
+		"flask", "flask-cors", "flask-restful", "unittest",
+		"pytest", "Django", "Django-rest-framework"
+	]
 	},
         databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
         misc: ["Firebase", "Honeycomb", "Flutter", "Dart", "PHP", "RUBY", "Swift", "SwiftUI"]
