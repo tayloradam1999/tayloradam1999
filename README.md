@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+my+name+is+Adam+Taylor.;I+am+a+Full+Stack+Web+Developer.)](https://git.io/typing-svg)
 
 [![Linkedin: Adam Taylor](https://img.shields.io/badge/-tayloradam1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayloradam1999/)](https://www.linkedin.com/in/tayloradam1999/)
-[![Email: Adam Taylor](https://img.shields.io/badge/-tayloradam1999@gmail-red?style=f;at-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)](https://mail.google.com/mail/u/1/#inbox)
-[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://zoom.us/j/4097689492?pwd=RTVrQ3IwM0piU3R4NnpZVUo4S2kxUT09)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14459358/adam-taylor)
+[![Email: Adam Taylor](https://img.shields.io/badge/-tayloradam1999@gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)](https://mail.google.com/mail/u/1/#inbox)
+[![Zoom: Adam Taylor](https://img.shields.io/badge/-430_673_2592-blue?style=flat-square&logo=Zoom&logoColor=white&link=https://us05web.zoom.us/j/4306732592?pwd=WkV6QWRmbTBYY2o2TCtWTDlWenJEUT09)](https://us05web.zoom.us/j/4306732592?pwd=WkV6QWRmbTBYY2o2TCtWTDlWenJEUT09)
+[![StackOverflow](https://img.shields.io/badge/-tayloradam1999-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/14459358/adam-taylor)](https://stackoverflow.com/users/14459358/adam-taylor)
 
 
 ```javascript
