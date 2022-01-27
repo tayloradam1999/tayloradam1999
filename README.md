@@ -13,27 +13,27 @@
 
 ```javascript
 const Adam = {
-    pronouns: "He" | "Him",
-    codingLanguages: ["Javascript", "HTML/CSS", "Python", "C"],
-    askMeAbout: ["Web Dev", "Front End", "Design", "Electronic Music", "MMOs"],
-    technologies: {
-       frontEnd: ["HTML5", "CSS", "Bootstrap", "Tailwind", "React"],
-       backEnd: {
-            js: [
+	pronouns: "He" | "Him",
+	codingLanguages: ["Javascript", "HTML/CSS", "Python", "C"],
+	askMeAbout: ["Web Dev", "Front End", "Design", "Electronic Music", "MMOs"],
+	technologies: {
+	   frontEnd: ["HTML5", "CSS", "Bootstrap", "Tailwind", "React"],
+	   backEnd: {
+			js: [
 		"node", "express", "django", "mongoose",
 		"jQuery", "GraphQL", "GraphiQL", "Apollo",
 		"queueing", "mocha", "chai", "sinon", "jest"
 	],
-	  		py: [
+			  py: [
 		"flask", "flask-cors", "flask-restful", "unittest",
 		"pytest", "Django", "Django-rest-framework"
 	]
 	},
-        databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
-        misc: ["Firebase", "Honeycomb", "Flutter", "Dart", "PHP", "RUBY", "Swift", "SwiftUI"]
-    },
-    architecture: ["microservices", "full-time", "commissions"],
-    funFact: "Ergonomical mice and keyboards scare me"
+		databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
+		misc: ["Firebase", "Honeycomb", "Flutter", "Dart", "PHP", "RUBY", "Swift", "SwiftUI"]
+	},
+	architecture: ["microservices", "full-time", "commissions"],
+	funFact: "Ergonomical mice and keyboards scare me"
 };
 ```
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayloradam1999&show_icons=true&theme=radical)
