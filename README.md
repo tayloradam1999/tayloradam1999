@@ -23,7 +23,7 @@ const Adam = {
 		"node", "express", "django", "mongoose",
 		"jQuery", "GraphQL", "GraphiQL", "Apollo",
 		"queueing", "mocha", "chai", "sinon", "jest"
-	],
+		],
 	python: [
 		"flask", "flask-cors", "flask-restful", "unittest",
 		"pytest", "Django", "Django-rest-framework"
