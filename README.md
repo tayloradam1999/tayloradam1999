@@ -27,8 +27,8 @@ const Adam = {
 	python: [
 		"flask", "flask-cors", "flask-restful", "unittest",
 		"pytest", "Django", "Django-rest-framework"
-	], 
-        },
+	]
+	},
         databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
         misc: ["Firebase", "Honeycomb", "Flutter", "Dart", "PHP", "RUBY", "Swift", "SwiftUI"]
     },
