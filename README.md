@@ -14,19 +14,19 @@
 ```javascript
 const Adam = {
     pronouns: "He" | "Him",
-	codingLanguages: ["Javascript", "HTML/CSS", "Python", "C"],
-	askMeAbout: ["Web Dev", "Front End", "Design", "Electronic Music", "MMOs"],
-	technologies: {
-		frontEnd: ["HTML5", "CSS", "Bootstrap", "Tailwind", "React"],
-		backEnd: {
-			js: ["node", "express", "mongoose", "jquery", "ajax", "jest", "mocha", "chai",
-			"sinon", "supertest", "GraphQL", "GraphiQL", "Apollo"],
-			py: ["flask", "flask-cors", "flask-restful", "unittest", "pytest", 
-			"Django", "Django-rest-framework"]
+    codingLanguages: ["Javascript", "HTML/CSS", "Python", "C"],
+    askMeAbout: ["Web Dev", "Front End", "Design", "Electronic Music", "MMOs"],
+    technologies: {
+        frontEnd: ["HTML5", "CSS", "Bootstrap", "Tailwind", "React"],
+        backEnd: {
+            js: ["node", "express", "mongoose", "jquery", "ajax", "jest", "mocha", "chai",
+            "sinon", "supertest", "GraphQL", "GraphiQL", "Apollo"],
+            py: ["flask", "flask-cors", "flask-restful", "unittest", "pytest", 
+            "Django", "Django-rest-framework"]
     },
-	databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
-	misc: ["Firebase", "Honeycomb", "Flutter", "Dart", "PHP", "RUBY", "Swift", "SwiftUI"]
-	},
+    databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
+    misc: ["Firebase", "Honeycomb", "Flutter", "Dart", "PHP", "RUBY", "Swift", "SwiftUI"]
+    },
 architecture: ["microservices", "full-time", "commissions"],
 funFact: "Ergonomical mice and keyboards scare me"
 };
