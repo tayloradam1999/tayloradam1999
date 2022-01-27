@@ -17,11 +17,13 @@ const Adam = {
             "sinon", "supertest", "GraphQL", "GraphiQL", "Apollo"],
             py: ["flask", "flask-cors", "flask-restful", "unittest", "pytest", 
             "Django", "Django-rest-framework"]
-    },
-    databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
-    misc: ["Firebase", "Honeycomb", "Flutter", "Dart", "PHP", "RUBY", "Swift", "SwiftUI"]
-    },
+   	 	},
+    	databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
+    	environments: ["Unix", "Windows", "Linux", "iOS", "Android"],
+		tools: ["Git", "Github", "VSCode", "WSL2", "Ubuntu", "Vagrant"]
+	},
     architecture: ["microservices", "freelance", "full-time web dev"],
+	hobbies: ["disc golf", "finding new DNB artists", "cat watching", "playing idle/mmo games"],
     funFact: "Ergonomical mice scare me"
 };
 ```
