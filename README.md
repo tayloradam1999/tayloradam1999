@@ -12,7 +12,7 @@
 
 
 ```javascript
-const Naveen = {
+const Adam = {
     pronouns: "He" | "Him",
     codingLanguages: ["Javascript", "HTML/CSS", "Python", "C"],
     askMeAbout: ["Web Dev", "Front End", "Design", "Electronic Music", "MMOs"],
@@ -20,14 +20,14 @@ const Naveen = {
        frontEnd: ["HTML5", "CSS", "Bootstrap", "Tailwind", "React"],
        backEnd: {
             js: [
-				"node", "express", "django", "mongoose",
-				"jQuery", "GraphQL", "GraphiQL", "Apollo",
-				"queueing", "mocha", "chai", "sinon", "jest"
-			],
-			python: [
-				"flask", "flask-cors", "flask-restful", "unittest",
-				"pytest", "Django", "Django-rest-framework"
-			], 
+			"node", "express", "django", "mongoose",
+			"jQuery", "GraphQL", "GraphiQL", "Apollo",
+			"queueing", "mocha", "chai", "sinon", "jest"
+		],
+		python: [
+			"flask", "flask-cors", "flask-restful", "unittest",
+			"pytest", "Django", "Django-rest-framework"
+		], 
         },
         databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
         misc: ["Firebase", "Honeycomb", "Flutter", "Dart", "PHP", "RUBY", "Swift", "SwiftUI"]
