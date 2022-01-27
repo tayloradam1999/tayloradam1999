@@ -27,8 +27,8 @@ const Adam = {
     databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
     misc: ["Firebase", "Honeycomb", "Flutter", "Dart", "PHP", "RUBY", "Swift", "SwiftUI"]
     },
-architecture: ["microservices", "full-time", "commissions"],
-funFact: "Ergonomical mice and keyboards scare me"
+    architecture: ["microservices", "full-time", "commissions"],
+    funFact: "Ergonomical mice and keyboards scare me"
 };
 ```
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayloradam1999&show_icons=true&theme=radical)
