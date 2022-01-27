@@ -27,7 +27,7 @@ const Adam = {
 ```
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayloradam1999&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayloradam1999&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayloradam1999&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people! Please feel free to send an email or reach out on Linkedin! :)</b></em>
 
