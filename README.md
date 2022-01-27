@@ -1,4 +1,4 @@
-<img src="https://github.com/tayloradam1999/tayloradam1999/blob/master/svg.svg"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+my+name+is+Adam+Taylor;I+am+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayloradam1999/)](https://www.linkedin.com/in/tayloradam1999/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
