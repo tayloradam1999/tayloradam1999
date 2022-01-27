@@ -26,7 +26,7 @@ const Adam = {
     funFact: "Ergonomical mice scare me"
 };
 ```
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayloradam1999&show_icons=true&theme=radical)
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayloradam1999&show_icons=true&theme=chatreuse-dark)
 
 <p align="center"> 
   Visitor count<br>
