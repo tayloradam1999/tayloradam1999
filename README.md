@@ -25,8 +25,8 @@ const Adam = {
 		"queueing", "mocha", "chai", "sinon", "jest"
 	],
 	python: [
-	"flask", "flask-cors", "flask-restful", "unittest",
-	"pytest", "Django", "Django-rest-framework"
+		"flask", "flask-cors", "flask-restful", "unittest",
+		"pytest", "Django", "Django-rest-framework"
 	], 
         },
         databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
