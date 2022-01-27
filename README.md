@@ -20,13 +20,13 @@ const Adam = {
        frontEnd: ["HTML5", "CSS", "Bootstrap", "Tailwind", "React"],
        backEnd: {
             js: [
-			"node", "express", "django", "mongoose",
-			"jQuery", "GraphQL", "GraphiQL", "Apollo",
-			"queueing", "mocha", "chai", "sinon", "jest"
+		"node", "express", "django", "mongoose",
+		"jQuery", "GraphQL", "GraphiQL", "Apollo",
+		"queueing", "mocha", "chai", "sinon", "jest"
 	],
 	python: [
-		"flask", "flask-cors", "flask-restful", "unittest",
-		"pytest", "Django", "Django-rest-framework"
+	"flask", "flask-cors", "flask-restful", "unittest",
+	"pytest", "Django", "Django-rest-framework"
 	], 
         },
         databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
