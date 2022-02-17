@@ -13,14 +13,12 @@ const Adam = {
     technologies: {
         frontEnd: ["HTML5", "CSS", "Bootstrap", "Tailwind", "React"],
         backEnd: {
-            js: ["node", "express", "mongoose", "jquery", "ajax", "jest", "mocha", "chai",
-            "sinon", "supertest", "GraphQL", "GraphiQL", "Apollo"],
-            py: ["flask", "flask-cors", "flask-restful", "unittest", "pytest", 
-            "Django", "Django-rest-framework"]
+            js: ["node", "express", "mongoose", "jquery", "ajax", "jest", "mocha", "chai", "sinon", "supertest", "GraphQL", "GraphiQL"],
+            py: ["flask", "logging", "unittest", "pytest", "pandas (though for web dev reasons)"]
             },
-        databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL"],
+        databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL", "Redis"],
         environments: ["Unix", "Windows", "Linux", "iOS", "Android"],
-        tools: ["Git", "Github", "VSCode", "WSL2", "Ubuntu", "Vagrant"]
+        tools: ["Git", "Github", "VSCode", "WSL2", "Ubuntu", "Vagrant", "Postman", "DBeaver"]
     },
     architecture: ["microservices", "freelance", "full-time web dev"],
     hobbies: ["disc golf", "finding new DNB artists", "cat watching", "playing idle/mmo games"],
