@@ -13,9 +13,9 @@ const Adam = {
     technologies: {
         frontEnd: ["HTML5", "CSS", "Bootstrap", "Tailwind", "React"],
         backEnd: {
-            js: ["node", "express", "mongoose", "jquery", "ajax", "jest", "mocha", "chai", "sinon", "supertest", "GraphQL", "GraphiQL"],
+            js: ["node", "express", "mongoose", "jquery", "ajax", "jest", "mocha", "chai","sinon", "supertest", "GraphQL", "GraphiQL"],
             py: ["flask", "logging", "unittest", "pytest", "pandas (though for web dev reasons)"]
-            },
+        },
         databases: ["SQL", "NoSQL", "MongoDB", "MySQL", "MySQLServer", "Microsoft SQL Server", "PostgreSQL", "Redis"],
         environments: ["Unix", "Windows", "Linux", "iOS", "Android"],
         tools: ["Git", "Github", "VSCode", "WSL2", "Ubuntu", "Vagrant", "Postman", "DBeaver"]
