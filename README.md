@@ -8,15 +8,15 @@
 ```javascript
 const Adam = {
     pronouns: "He" | "Him",
-    programmingLanguages: ["Javascript", "HTML/CSS", "Python", "C"],
+    codingLanguages: ["Javascript", "HTML/CSS", "Python", "C"],
     askMeAbout: ["Web Dev", "Front End", "Design", "Electronic Music", "MMOs"],
     technologies: {
         frontEnd: ["HTML5", "CSS", "Bootstrap", "Tailwind", "React"],
         backEnd: {
-			js: ["Node", "Express", "React", "JQuery"],
-			python: ["Flask", "Django", "SQLAlchemy"],
-			databases: ["MySQL", "PostgreSQL", "MongoDB"],
-		},
+            Nodejs: ["express", "mongoose", "jquery", "ajax", "mocha", "chai", "sinon", "jest"],
+            py: ["Flask", "SQLAlchemy", "pytest", "logging"]
+        },
+        databases: ["SQL", "NoSQL", "MySQL", "PostgreSQL", "Redis"],
         environments: ["Unix", "Windows", "Linux", "iOS", "Android"],
         tools: ["Git", "Github", "VSCode", "WSL2", "Ubuntu", "Vagrant", "Postman", "DBeaver"]
     },
