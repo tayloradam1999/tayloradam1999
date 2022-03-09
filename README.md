@@ -15,7 +15,7 @@ const Adam = {
         backEnd: {
             Nodejs: ["express", "mongoose", "jquery", "Typescript", "ajax", "mocha", "jest"],
             py: ["Flask", "SQLAlchemy", "Django", "pytest", "logging"],
-			other: ["webpack"]
+		    other: ["webpack"]
         },
         databases: ["SQL", "NoSQL", "MySQL", "PostgreSQL", "Redis"],
         environments: ["Unix", "Windows", "Linux", "iOS", "Android"],
