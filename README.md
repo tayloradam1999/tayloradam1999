@@ -11,10 +11,11 @@ const Adam = {
     codingLanguages: ["Javascript", "HTML/CSS", "Python", "C"],
     askMeAbout: ["Web Dev", "Front End", "Design", "Electronic Music", "MMOs"],
     technologies: {
-        frontEnd: ["HTML5", "CSS", "Bootstrap", "Tailwind", "React"],
+        frontEnd: ["HTML5", "CSS", "React", "Tailwind", "Bootstrap"],
         backEnd: {
-            Nodejs: ["express", "mongoose", "jquery", "ajax", "mocha", "chai", "sinon", "jest"],
-            py: ["Flask", "SQLAlchemy", "pytest", "logging"]
+            Nodejs: ["express", "mongoose", "jquery", "Typescript", "ajax", "mocha", "jest"],
+            py: ["Flask", "SQLAlchemy", "Django", "pytest", "logging"],
+			other: ["webpack"]
         },
         databases: ["SQL", "NoSQL", "MySQL", "PostgreSQL", "Redis"],
         environments: ["Unix", "Windows", "Linux", "iOS", "Android"],
