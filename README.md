@@ -13,7 +13,7 @@ const Adam = {
     technologies: {
         frontEnd: ["HTML5", "CSS", "React", "Tailwind", "Bootstrap"],
         backEnd: {
-            Nodejs: ["express", "mongoose", "jquery", "Typescript", "ajax", "mocha", "jest"],
+            Nodejs: ["express", "jquery", "Typescript", "mongoose", "ajax", "mocha", "jest"],
             py: ["Flask", "SQLAlchemy", "Django", "pytest", "logging"],
 	    other: ["webpack"]
         },
