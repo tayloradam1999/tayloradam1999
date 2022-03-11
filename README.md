@@ -28,7 +28,7 @@ const Adam = {
 ```
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayloradam1999&show_icons=true&theme=radical)
 
-![Adam's Github stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=tayloradam1999&langs_count=10&theme=radical&layout=compact&exclude_repo=holbertonschool-web_back_end,holbertonschool-zero_day,your_first_code)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayloradam1999&langs_count=10&theme=radical&layout=compact&exclude_repo=holbertonschool-web_back_end,holbertonschool-zero_day,your_first_code" width="250px" height="200px">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people! Please feel free to send an email or reach out on Linkedin! :)</b></em>
 
