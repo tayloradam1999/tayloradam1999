@@ -28,7 +28,8 @@ const Adam = {
 ```
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tayloradam1999&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=tayloradam1999&show_icons=true&theme=radical" 
+    width="250px !important;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayloradam1999&langs_count=10&theme=radical&layout=compact&exclude_repo=holbertonschool-web_back_end,holbertonschool-zero_day,your_first_code">
 </div>
 
