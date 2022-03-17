@@ -6,7 +6,9 @@
 <div style="display: flex; align-items: center; justify-content: center;">
 <em><b>Check out my <a href="tayloradam1999.github.io">Personal Website</a>!</b></em>
 </div>
-
+  
+    
+	
 ```javascript
 const Adam = {
     pronouns: "He" | "Him",
