@@ -3,7 +3,6 @@
 [![Linkedin: Adam Taylor](https://img.shields.io/badge/-tayloradam1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayloradam1999/)](https://www.linkedin.com/in/tayloradam1999/)
 [![Email: Adam Taylor](https://img.shields.io/badge/-tayloradam1999@gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)](https://mail.google.com/mail/u/1/#inbox)
 [![StackOverflow](https://img.shields.io/badge/-tayloradam1999-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/14459358/adam-taylor)](https://stackoverflow.com/users/14459358/adam-taylor)
-[![Website: Adam Taylor](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://img.shields.io/badge/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=tayloradam1999.github..io)
 
 
 ```javascript
@@ -35,6 +34,7 @@ const Adam = {
 </div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people! Please feel free to send an email or reach out on Linkedin! :)</b></em>
+<p>Check out my <a href="tayloradam1999.github.io">Personal Website</a>!</p>
 
 <p align="center"> 
   Visitor count<br>
