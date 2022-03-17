@@ -33,7 +33,8 @@ const Adam = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayloradam1999&langs_count=8&theme=react&layout=compact&exclude_repo=holbertonschool-web_back_end,holbertonschool-zero_day,your_first_code,holbertonschool-low_level_programming,holbertonschool-web_front_end">
 </div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people! Please feel free to send an email or reach out on Linkedin! :)</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people! Please feel free to send an email or reach out on Linkedin! :)</b></em>  
+  
 <em><b>Check out my <a href="tayloradam1999.github.io">Personal Website</a>!</b></em>
 
 <p align="center"> 
