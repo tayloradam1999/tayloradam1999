@@ -34,7 +34,7 @@ const Adam = {
 </div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people! Please feel free to send an email or reach out on Linkedin! :)</b></em>
-<p>Check out my <a href="tayloradam1999.github.io">Personal Website</a>!</p>
+<em><b>Check out my <a href="tayloradam1999.github.io">Personal Website</a>!</b></em>
 
 <p align="center"> 
   Visitor count<br>
