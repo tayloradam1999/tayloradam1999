@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+my+name+is+Adam+Taylor.;I+am+a+Full+Stack+Web+Developer.)](https://git.io/typing-svg)
 
 [![Linkedin: Adam Taylor](https://img.shields.io/badge/-tayloradam1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayloradam1999/)](https://www.linkedin.com/in/tayloradam1999/)
-[![Email: Adam Taylor](https://img.shields.io/badge/-tayloradam1999@gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)](https://mail.google.com/mail/u/1/#inbox)
+[![Email: Adam Taylor](https://img.shields.io/badge/-tayloradam1999@gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)]()
 [![StackOverflow](https://img.shields.io/badge/-tayloradam1999-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/14459358/adam-taylor)](https://stackoverflow.com/users/14459358/adam-taylor)
 <div style="display: flex; align-items: center; justify-content: center;">
 <em><b>Check out my <a href="https://tayloradam1999.github.io/">Personal Website</a>!</b></em>
@@ -17,7 +17,7 @@ const Adam = {
     technologies: {
         frontEnd: ["HTML5", "CSS", "React", "Tailwind", "Bootstrap"],
         backEnd: {
-            js: ["Node", "express", "jquery", "Typescript", "mongoose", "ajax", "mocha", "jest"],
+            js: ["Node", "express", "jquery", "Typescript", "mongoose", "enzyme", "ajax", "mocha", "jest"],
             py: ["Flask", "SQLAlchemy", "Django", "pytest"],
 	    other: ["webpack"]
         },
