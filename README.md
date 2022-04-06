@@ -22,8 +22,8 @@ const Adam = {
 	    other: ["webpack"]
         },
         databases: ["SQL", "NoSQL", "MySQL", "PostgreSQL", "Redis"],
-        environments: ["Unix", "Windows", "Linux", "iOS", "Android"],
-        tools: ["Git", "Github", "VSCode", "WSL2", "Ubuntu", "Vagrant", "Postman", "DBeaver"]
+        environments: ["Unix", "Linux", "Windows", "iOS", "Android"],
+        tools: ["Git", "VSCode", "WSL2", "Ubuntu", "Vagrant", "Postman", "DBeaver", "React DevTools"]
     },
     architecture: ["microservices", "freelance", "full-time web dev"],
     hobbies: ["disc golf", "finding new DNB artists", "cat watching", "playing idle/mmo games"],
