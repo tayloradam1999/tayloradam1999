@@ -13,11 +13,11 @@
 const Adam = {
     pronouns: "He" | "Him",
     codingLanguages: ["Javascript", "HTML/CSS", "Python", "C"],
-    askMeAbout: ["Web Dev", "Front End", "Design", "Electronic Music", "MMOs"],
+    askMeAbout: ["Web Development", "Front-End", "Design", "Electronic Music", "MMOs"],
     technologies: {
-        frontEnd: ["HTML5", "CSS", "React", "Tailwind", "Bootstrap"],
+        frontEnd: ["HTML5", "CSS", "React", "Bootstrap", "Tailwind"],
         backEnd: {
-            js: ["Node", "express", "redux", "immutable", "jQuery", "Typescript", "mongoose", "ajax", "mocha", "chai", "sinon", "jest", "enzyme"],
+            js: ["Node", "express", "jQuery", "Typescript", "axios", "ajax", "immutable", "mongoose", "jest", "mocha", "chai", "sinon", "enzyme"],
             py: ["Flask", "SQLAlchemy", "Django", "pytest"],
 	    other: ["webpack"]
         },
