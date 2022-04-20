@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+my+name+is+Adam+Taylor.;I+am+a+Front-End+Web+Developer.;I+am+a+UI/UX+Front-end+Engineer.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+my+name+is+Adam+Taylor.;I+am+a+Front-End+Web+Developer.;I+am+a+Full-Stack+Software+Engineer.;I+am+a+design+enthusiast;)](https://git.io/typing-svg)
 
 [![Linkedin: Adam Taylor](https://img.shields.io/badge/-tayloradam1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayloradam1999/)](https://www.linkedin.com/in/tayloradam1999/)
 [![Email: Adam Taylor](https://img.shields.io/badge/-tayloradam1999@gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)]()
