@@ -1,11 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+my+name+is+Adam+Taylor.;I+am+a+Full+Stack+Web+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+my+name+is+Adam+Taylor.;I+am+a+Front-End+Web+Developer.;I+am+a+UI/UX+Front-end+Engineer.;)](https://git.io/typing-svg)
 
 [![Linkedin: Adam Taylor](https://img.shields.io/badge/-tayloradam1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayloradam1999/)](https://www.linkedin.com/in/tayloradam1999/)
 [![Email: Adam Taylor](https://img.shields.io/badge/-tayloradam1999@gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)]()
 [![StackOverflow](https://img.shields.io/badge/-tayloradam1999-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/14459358/adam-taylor)](https://stackoverflow.com/users/14459358/adam-taylor)
   
-    
-
 ```javascript
 const Adam = {
     pronouns: "He" | "Him",
@@ -26,7 +24,7 @@ const Adam = {
     funFact: "Ergonomical mice scare me"
 };
 ```
-
+  
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=tayloradam1999&show_icons=true&theme=react" 
     style="max-width: 75% important!;">
