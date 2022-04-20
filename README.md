@@ -38,6 +38,6 @@ const Adam = {
   <img src="https://profile-counter.glitch.me/tayloradam1999/count.svg" />
 </p>
   
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
 <em><b>Check out my <a href="https://tayloradam1999.github.io/">Personal Website</a>!</b></em>
 </div>
