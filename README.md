@@ -1,7 +1,7 @@
 <div align="center">
 <div style="margin-left: 20px;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+there.+My+name+is+Adam+Taylor.;I+am+a+Front-End+Web+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true?lines=Hello,+there.+My+name+is+Adam+Taylor.;I+am+a+Front-End+Web+Developer.)](https://git.io/typing-svg)
 
 </div>
 
