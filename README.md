@@ -14,9 +14,10 @@ const Adam = {
     codingLanguages: ["Javascript", "HTML/CSS", "Python", "C"],
     askMeAbout: ["Web Development", "Front-End", "Design", "Electronic Music", "MMOs"],
     technologies: {
-        frontEnd: ["HTML5", "CSS", "React", "Bootstrap", "Tailwind"],
+        frontEnd: ["HTML", "CSS", "SASS/SCSS", "React", "Bootstrap", "Tailwind"],
         backEnd: {
-            js: ["Node", "express", "jQuery", "Typescript", "axios", "redux", "immutable", "mongoose", "jest", "mocha", "chai", "sinon", "enzyme"],
+            js: ["Node", "express", "jQuery", "Typescript", "redux", "rtk", "react-redux", "react-dom", "react-router-dom",
+        "mongoose", "jest", "mocha", "chai", "sinon", "enzyme"],
             py: ["Flask", "SQLAlchemy", "Django", "pytest"],
 	    other: ["webpack"]
         },
