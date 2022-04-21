@@ -23,7 +23,7 @@ const Adam = {
         },
         databases: ["SQL", "MySQL", "NoSQL", "PostgreSQL", "Redis"],
         environments: ["Unix", "Linux", "Windows", "iOS", "Android"],
-        tools: ["Git", "VSCode", "WSL2", "Ubuntu", "Vagrant", "Postman", "DBeaver", "React DevTools"]
+        tools: ["Git", "VSCode", "WSL2", "Ubuntu", "Vagrant", "Figma", "Postman", "DBeaver", "React DevTools", "Redux-DevTools"]
     },
     hobbies: ["disc golf", "finding new DNB artists", "cat watching", "playing idle/mmo games"],
     funFact: "Ergonomical mice scare me"
