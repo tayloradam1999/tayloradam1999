@@ -1,7 +1,6 @@
 <div align="center">
-<div style="margin-left: 20px;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true?lines=Hello,+there.+My+name+is+Adam+Taylor.;I+am+a+Front-End+Web+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=AF5F08&lines=Hello,+there.+My+name+is+Adam+Taylor.;I+am+a+Front-End+Web+Developer.)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,6 +38,10 @@ const Adam = {
     style="max-width: 75% important!;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayloradam1999&langs_count=8&theme=react&layout=compact&exclude_repo=holbertonschool-web_back_end,holbertonschool-zero_day,your_first_code,holbertonschool-low_level_programming,holbertonschool-web_front_end">
 </div>
+
+<p align="center">
+    <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="img" class="center" align="center" width="100px">
+</p>
   
 <p align="center"> 
   Visitor count<br>
