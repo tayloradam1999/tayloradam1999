@@ -17,7 +17,7 @@ const Adam = {
         frontEnd: ["HTML", "CSS", "SASS/SCSS", "React", "Bootstrap", "Tailwind"],
         backEnd: {
             js: ["Node", "express", "jQuery", "Typescript", "redux", "rtk", "react-redux", "react-dom", "react-router-dom",
-            "mongoose", "immutable", "jest", "mocha", "chai", "sinon", "enzyme"],
+            "mongoose", "axios", "immutable", "jest", "mocha", "chai", "sinon", "enzyme"],
             py: ["Flask", "SQLAlchemy", "Django", "pytest"],
 	    other: ["webpack"]
         },
