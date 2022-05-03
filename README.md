@@ -12,6 +12,7 @@
 const Adam = {
     pronouns: "He" | "Him",
     codingLanguages: ["Javascript", "Typescript", "Python", "HTML", "CSS", "SQL", "C"],
+    currentlyLearning: ["Material-UI", "React-Final-Form", "Dart", "Flutter"],
     askMeAbout: ["Web Development", "Front-End", "Design", "Electronic Music", "MMOs"],
     technologies: {
         frontEnd: ["HTML", "CSS", "SASS/SCSS", "React", "Bootstrap", "Tailwind"],
