@@ -2,11 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=54b5d2&lines=Hi,+My+name+is+Adam+Taylor.;I+am+a+Front-End+Web+Developer.)](https://git.io/typing-svg)
 
+</div>
+
 [![Linkedin: Adam Taylor](https://img.shields.io/badge/-tayloradam1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayloradam1999/)](https://www.linkedin.com/in/tayloradam1999/)
 [![Email: Adam Taylor](https://img.shields.io/badge/-tayloradam1999@gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)]()
 [![StackOverflow](https://img.shields.io/badge/-tayloradam1999-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/14459358/adam-taylor)](https://stackoverflow.com/users/14459358/adam-taylor)
 
-</div>
   
 ```javascript
 const Adam = {
