@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=54b5d2&lines=Hi,+My+name+is+Adam+Taylor.;I+am+a+Front-End+Web+Developer.)](https://git.io/typing-svg)
 
 </div>
-<div style="display: flex; justify-content: center;">
+<div align="justify">
 
 [![Linkedin: Adam Taylor](https://img.shields.io/badge/-tayloradam1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayloradam1999/)](https://www.linkedin.com/in/tayloradam1999/)
 [![Email: Adam Taylor](https://img.shields.io/badge/-tayloradam1999@gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)]()
