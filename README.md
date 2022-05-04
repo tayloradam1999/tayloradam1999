@@ -4,14 +4,6 @@
 
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-
-[![Linkedin: Adam Taylor](https://img.shields.io/badge/-tayloradam1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayloradam1999/)](https://www.linkedin.com/in/tayloradam1999/)
-[![Email: Adam Taylor](https://img.shields.io/badge/-tayloradam1999@gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)]()
-[![StackOverflow](https://img.shields.io/badge/-tayloradam1999-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/14459358/adam-taylor)](https://stackoverflow.com/users/14459358/adam-taylor)
-
-</div>
-  
 ```javascript
 const Adam = {
     pronouns: "He" | "Him",
@@ -50,6 +42,14 @@ const Adam = {
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tayloradam1999/count.svg" />
 </p>
+
+<div align="center">
+
+[![Linkedin: Adam Taylor](https://img.shields.io/badge/-tayloradam1999-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayloradam1999/)](https://www.linkedin.com/in/tayloradam1999/)
+[![Email: Adam Taylor](https://img.shields.io/badge/-tayloradam1999@gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)]()
+[![StackOverflow](https://img.shields.io/badge/-tayloradam1999-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/14459358/adam-taylor)](https://stackoverflow.com/users/14459358/adam-taylor)
+
+</div>
   
 <div align="center">
 <em><b>Check out my <a href="https://tayloradam1999.github.io/">Personal Website</a>!</b></em>
