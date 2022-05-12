@@ -19,9 +19,9 @@ const Adam = {
 	    other: ["webpack"]
         },
         databases: ["SQL", "MySQL", "NoSQL", "PostgreSQL", "Redis"],
-        environments: ["Unix", "Linux", "Windows", "iOS", "Android"],
+        environments: ["Unix", "Linux", "Windows", "Android", "iOS"],
         tools: ["Git", "VSCode", "WSL2", "Ubuntu", "Vagrant", "Figma", "Postman", "DBeaver",
-        "MongoDB Atlas", "React DevTools", "Redux-DevTools"]
+        "MongoDB Atlas", "Android Studio", "React DevTools", "Redux-DevTools"]
     },
     hobbies: ["disc golf", "finding new DNB artists", "cat watching", "playing idle/mmo games"],
     funFact: "Ergonomical mice scare me"
