@@ -27,12 +27,6 @@ const Adam = {
     funFact: "Ergonomical mice scare me"
 };
 ```
-  
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tayloradam1999&show_icons=true&theme=react" 
-    style="max-width: 75% important!;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayloradam1999&langs_count=8&theme=react&layout=compact&exclude_repo=holbertonschool-web_back_end,holbertonschool-zero_day,your_first_code,holbertonschool-low_level_programming,holbertonschool-web_front_end">
-</div>
 
 <p align="center">
     <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="img" class="center" align="center" width="100px">
